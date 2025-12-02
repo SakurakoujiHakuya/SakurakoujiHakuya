@@ -5,4 +5,3 @@
 - 🤔 I am looking for help :How can I do to  get an IT-related job in Japan
 - 💬 Ask me about vue
 - 📫 How to reach me: 2366158084@qq.com
-- ⚡ Fun fact: I can speak Chinese,Japanese and English,but English...
