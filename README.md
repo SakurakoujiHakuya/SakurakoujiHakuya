@@ -1,7 +1,12 @@
-## Hi there 👋
-- 🔭 I’m currently working on Front-end work ,just likes vue
-- 🌱 I’m currently learning vue,and I will learn react in a few months，My dream is to be a full stack engineer
-- 👯 I’m looking to collaborate on Front-end
-- 🤔 I am looking for help :How can I do to  get an IT-related job in Japan
-- 💬 Ask me about vue
-- 📫 How to reach me: 2366158084@qq.com
+Hi there 👋
+👨‍💻 I will soon be working at miHoYo (米哈游)!
+
+📚 Currently, I'm deeply engaged in my graduation project (毕设).
+
+💡 I'm keen to learn development techniques for multi-dimensional tables and office component responsiveness.
+
+🤝 I’m looking to collaborate on Front-end projects.
+
+🤔 I'm looking for advice: How can I successfully secure an IT-related job in Japan?
+
+📧 How to reach me: 2366158084@qq.com
