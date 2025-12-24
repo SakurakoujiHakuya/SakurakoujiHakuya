@@ -7,6 +7,4 @@ Hi there 👋
 
 🤝 I’m looking to collaborate on Front-end projects.
 
-🤔 I'm looking for advice: How can I successfully secure an IT-related job in Japan?
-
 📧 How to reach me: 2366158084@qq.com
