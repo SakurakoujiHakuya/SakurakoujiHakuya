@@ -1,7 +1,7 @@
 Hi there 👋
-👨‍💻 I will soon be working at miHoYo (米哈游)!
+👨‍💻 I will soon be working at miHoYo!
 
-📚 Currently, I'm deeply engaged in my graduation project (毕设).
+📚 Currently, I'm deeply engaged in my graduation project.
 
 💡 I'm keen to learn development techniques for multi-dimensional tables and office component responsiveness.
 
