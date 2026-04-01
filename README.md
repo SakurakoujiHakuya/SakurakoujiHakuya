@@ -1,5 +1,4 @@
 Hi there 👋
-👨‍💻 I will soon be working at miHoYo!
 
 📚 Currently, I'm deeply engaged in my graduation project.
 
