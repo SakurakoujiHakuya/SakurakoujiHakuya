@@ -1,17 +1,21 @@
-Hi there 👋
+💼 Front-end Engineer focused on knowledge systems & rich text editor infrastructure
 
-💼 Front-end Engineer focusing on knowledge systems and collaborative web applications.
+📚 Currently deep-diving into ProseMirror and modern rich text editor architecture, including schema design, document model, plugin system, and collaborative editing foundations.
 
-📚 Currently diving into **KM (Knowledge Management)**, **real-time collaborative editing**, and algorithms like **CRDT** and **OT**.
+💡 Main interests:
 
-💡 Especially interested in:
+ProseMirror architecture and plugin system
+Rich text editors (Slate / ProseMirror ecosystem / Tiptap)
+Document model design (Node / Mark / Schema)
+Collaborative editing foundations (OT / CRDT integration concepts)
+Knowledge management systems (KM / docs / structured content)
+Web-based office-like applications
 
-* Collaborative document editing
-* Rich text editors & office-like web components
-* Multi-dimensional tables
-* Whiteboards / mind maps / knowledge systems
-* Front-end performance and engineering
+🤝 Open to collaboration on:
 
-🤝 Looking to collaborate on projects related to **Front-end**, **collaborative systems**, and **editor infrastructure**.
+Editor infrastructure
+Knowledge system / document system design
+Collaborative editing / real-time sync systems
+Front-end architecture for complex web apps
 
-📧 How to reach me: [2366158084@qq.com](mailto:2366158084@qq.com)
+📧 2366158084@qq.com
